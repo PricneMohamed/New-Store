@@ -1,0 +1,11 @@
+.s1{
+    background-image: url("../img//Home/wallpaperflare.com_wallpaper.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.arrow{
+    transition: 0.6s;
+}
+.smky-btn3:hover .arrow{
+    transform: translate(17px);
+}
