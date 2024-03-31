@@ -52,6 +52,7 @@ export default function () {
                     showConfirmButton: true,
                     timer: 1500,
                   });
+                  dispatch(addCart(ele))
                 }}
               >
                 Add To Cart
